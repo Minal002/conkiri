@@ -1,6 +1,5 @@
 # 🐘 콘끼리
-![image (5)](https://github.com/user-attachments/assets/a3b4b482-3439-42a9-b4ba-a2885799a448)
-
+![conkiri](https://github.com/user-attachments/assets/d58ba14a-616d-46e8-89b4-08f75f39af31)
 
 # 목차
 [서비스](#-서비스) <br>
